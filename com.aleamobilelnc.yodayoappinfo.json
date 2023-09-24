@@ -1,0 +1,177 @@
+{
+  "ads": {
+    "settings": {
+      "interval_interstitial": 3,
+      "interstitial_type" : "lap",
+      "switch_ads_type": "only_banner",
+
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "make_app_under_maintenance": false
+    },
+
+    "ad_network": [
+      {
+        "name": "fan",
+        "value": 1,
+        "min_time": 0,
+
+        "appId_appKey_publisherId_gameId": "isi-app-id-app-key",
+        "banner": "isi-kode-iklan-banner",
+        "mrec": "off",
+        "inter": "isi-kode-iklan-inter",
+        "native_ad": "off",
+        "open_ad": "off",
+        "splash_ad": false
+      }
+    ]
+  },
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Information",
+      "image": "file:///android_asset/gmbr/A.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Apps Advice",
+      "image": "file:///android_asset/gmbr/B.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "Apps Info",
+      "image": "file:///android_asset/gmbr/C.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Information",
+      "title": "About Yodayo",
+      "image": "file:///android_asset/gmbr/A.jpg",
+      "description": "Yodayo is a groundbreaking AI art platform designed specifically",
+      "link": "https://aleamobilelnc.blogspot.com/p/about-yodayo.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Information",
+      "title": "Top Features",
+      "image": "file:///android_asset/gmbr/B.jpg",
+      "description": "Customizable Avatars, Ease of Use, A Variety of Models",
+      "link": "https://aleamobilelnc.blogspot.com/p/top-features.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Information",
+      "title": "Benefits & Pain Points It Solves",
+      "image": "file:///android_asset/gmbr/C.jpg",
+      "description": "Streamlines the creative process with AI-generated art",
+      "link": "https://aleamobilelnc.blogspot.com/p/benefits-pain-points-it-solves.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Information",
+      "title": "Use Cases",
+      "image": "file:///android_asset/gmbr/D.jpg",
+      "description": "Creating unique anime-inspired artwork",
+      "link": "https://aleamobilelnc.blogspot.com/p/use-cases.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Information",
+      "title": "Set Up Time & Productivity Gain",
+      "image": "file:///android_asset/gmbr/E.jpg",
+      "description": "Yodayo is web-based and requires no installation. Users can",
+      "link": "https://aleamobilelnc.blogspot.com/p/set-up-time-productivity-gain.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Apps Advice",
+      "title": "What Is Yodayo",
+      "image": "file:///android_asset/gmbr/F.jpg",
+      "description": "Yodayo is an AI art platform that caters to the creative needs of",
+      "link": "https://aleamobilelnc.blogspot.com/p/what-is-yodayo.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Apps Advice",
+      "title": "What Are Features Of Yodayo AI Tool",
+      "image": "file:///android_asset/gmbr/G.jpg",
+      "description": "Text-to-Image AI Generator: With Yodayo, you can simply input text descriptions",
+      "link": "https://aleamobilelnc.blogspot.com/p/what-are-features-of-yodayo-ai-tool.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Apps Advice",
+      "title": "What Are Use Cases Of Yodayo Ai Tool",
+      "image": "file:///android_asset/gmbr/H.jpg",
+      "description": "Enhance your visual content and captivate your audience by creating personalized",
+      "link": "https://aleamobilelnc.blogspot.com/p/what-are-use-cases-of-yodayo-ai-tool.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Apps Advice",
+      "title": "How Can I Generate Anime Style Art",
+      "image": "file:///android_asset/gmbr/A.jpg",
+      "description": "With Yodayo’s Text-to-Image AI Generator, you can create anime",
+      "link": "https://aleamobilelnc.blogspot.com/p/how-can-i-generate-anime-style-art.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Apps Advice",
+      "title": "Can I Share My Artwork On Yodayo Best",
+      "image": "file:///android_asset/gmbr/B.jpg",
+      "description": "Yodayo encourages artists to share their artwork with the community. ",
+      "link": "https://aleamobilelnc.blogspot.com/p/can-i-share-my-artwork-on-yodayo-best.html"
+    },
+    {
+      "id": 11,
+      "name_category": "Apps Info",
+      "title": "Yodayo Features",
+      "image": "file:///android_asset/gmbr/C.jpg",
+      "description": "Yodayo  is a vibrant AI art platform that caters to the creative needs of",
+      "link": "https://aleamobilelnc.blogspot.com/p/yodayo-features.html"
+    },
+    {
+      "id": 12,
+      "name_category": "Apps Info",
+      "title": "TLDR",
+      "image": "file:///android_asset/gmbr/D.jpg",
+      "description": "ith its powerful AI tools, Yodayo simplifies and demystifies the art of designing graphics,",
+      "link": "https://aleamobilelnc.blogspot.com/p/tldr.html"
+    },
+    {
+      "id": 13,
+      "name_category": "Apps Info",
+      "title": "Company Overview",
+      "image": "file:///android_asset/gmbr/E.jpg",
+      "description": "As an AI art platform, Yodayo offers a vast array of features that allow users to",
+      "link": "https://aleamobilelnc.blogspot.com/p/company-overview.html"
+    },
+    {
+      "id": 14,
+      "name_category": "Apps Info",
+      "title": "Graphics And Animations",
+      "image": "file:///android_asset/gmbr/F.jpg",
+      "description": "Yodayo's powerful AI tools use generative art technology to create stunning graphics,",
+      "link": "https://aleamobilelnc.blogspot.com/p/graphics-and-animations.html"
+    },
+    {
+      "id": 15,
+      "name_category": "Apps Info",
+      "title": "Community Driven",
+      "image": "file:///android_asset/gmbr/G.jpg",
+      "description": "Yodayo provides a community-driven platform for anime fans. Fans of the anime",
+      "link": "https://aleamobilelnc.blogspot.com/p/community-driven.html"
+    },
+    {
+      "id": 16,
+      "name_category": "Apps Info",
+      "title": "FAQ",
+      "image": "file:///android_asset/gmbr/H.jpg",
+      "description": "Yodayo offers a vast array of features that allow users to design high-quality graphics, animations,",
+      "link": "https://aleamobilelnc.blogspot.com/p/faq.html"
+    }
+  ]
+}
